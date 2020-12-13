@@ -6,7 +6,7 @@ Assista ao vídeo: https://youtu.be/HXddFUe6VPU
 
 ---
 
-_Exercício:_
+#### _Exercício:_
 
 Descreva um algoritmo para representar sua rotina matinal, a partir do momento em que você acorda. Use ao menos duas vezes a expressão `Se ... Então ...`. 
 

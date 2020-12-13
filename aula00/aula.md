@@ -6,6 +6,6 @@ Assista ao vídeo: https://youtu.be/enQJN34Mh28
 
 ---
 
-_Leitura complementar:_
+#### _Leitura complementar:_
 * https://dicasdeprogramacao.com.br/o-que-e-algoritmo/
 * https://rockcontent.com/br/blog/algoritmo/
