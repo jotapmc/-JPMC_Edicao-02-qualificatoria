@@ -47,7 +47,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #02 - Como o computador entende as coisas?](aula02/aula.md)
 - [Aula #03 - Hello World](aula03/aula.md)
 - [Aula #04 - Variáveis](aula04/aula.md)
-- [Aula #05 - Operadores](https://youtu.be/FDrR18rvvCc)
+- [Aula #05 - Operadores](aula05/aula.md)
 - [Aula #06 - Condicionais](https://youtu.be/Uw7X_JwGbis)
 - [Aula #07 - Arrays](https://youtu.be/Q8iceY8qCpo)
 - [Aula #08 - Repetição](https://youtu.be/FhuqrLaeN34)

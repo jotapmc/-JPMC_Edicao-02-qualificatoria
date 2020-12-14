@@ -19,8 +19,7 @@ Assista aos vídeos:
 _Importante:_
 * Toda variável tem um nome;
 * Uma variável tem/recebe um valor;
-* O símbolo `=` indica que um valor está sendo atribuído à variável.
-  * _Atenção: para testar se uma variável é igual a outra, deve-se usar `==`_
+* O símbolo `=` indica que um valor está sendo atribuído à variável. Para testar se uma variável é igual a outra, deve-se usar `==`.
 
 ...
 

@@ -18,4 +18,4 @@ console.log(apresentacao)
 
 _Resultado:_
 
-![devtools](img/resolucao.png)
+![resolucao](img/resolucao.png)
