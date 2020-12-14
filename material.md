@@ -49,7 +49,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #04 - Variáveis](aula04/aula.md)
 - [Aula #05 - Operadores](aula05/aula.md)
 - [Aula #06 - Condicionais](aula06/aula.md)
-- [Aula #07 - Arrays](https://youtu.be/Q8iceY8qCpo)
+- [Aula #07 - Vetores, matrizes e arrays](aula07/aula.md)
 - [Aula #08 - Repetição](https://youtu.be/FhuqrLaeN34)
 - [Aula #09 - Funções e procedimentos](https://youtu.be/2g2bfD6q5NQ)
 - [Aula #10 - Juntando tudo](https://youtu.be/aWv871ExPqY)
