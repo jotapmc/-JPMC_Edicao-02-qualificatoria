@@ -8,20 +8,20 @@ Primeiramente você precisará fazer um [cadastro](https://repl.it/signup) na pl
 
 Você pode optar por preencher os dados manualmente ou, então, se cadastrar diretamente pelo Facebook ou Google.
 
-![img/repl-1.png](cadastro)
+![cadastro](img/repl-1.png)
 
 ### 2. Repositório
 
 Quando você estiver na página principal, após ter realizado o cadastro e o login, localize o botão `+ New repl`.
 
-![img/repl-2.png](repositório)
+![repositório](img/repl-2.png)
 
 Depois, basta procurar por `Javascript` e dar um nome para o seu repositório.
 
-![img/repl-3.png](repositório)
+![repositório](img/repl-3.png)
 
 ### 3. Execução
 
-Quando seu repositório e ambiente de trabalho estiver concluído, basta você escrever o código e clicar em `Run`.
+Quando seu repositório e ambiente de trabalho estiver concluído, basta você escrever o código, clicar em `Run` e _voilá_:
 
-![img/repl-4.png](execução)
+![execução](img/repl-4.png)

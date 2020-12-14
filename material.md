@@ -45,7 +45,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #00 - O que é um algoritmo?](aula00/aula.md)
 - [Aula #01 - Introdução à lógica de programação](aula01/aula.md)
 - [Aula #02 - Como o computador entende as coisas?](aula02/aula.md)
-- [Aula #03 - Hello World](aula04/aula.md)
+- [Aula #03 - Hello World](aula03/aula.md)
 - [Aula #04 - Variáveis](https://youtu.be/-ny7Kqm0V68)
 - [Aula #05 - Operadores](https://youtu.be/FDrR18rvvCc)
 - [Aula #06 - Condicionais](https://youtu.be/Uw7X_JwGbis)
