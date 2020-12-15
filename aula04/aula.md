@@ -17,6 +17,7 @@ Assista aos vídeos:
 #### _Material complementar:_
 
 _Importante:_
+
 * Toda variável tem um nome;
 * Uma variável tem/recebe um valor;
 * O símbolo `=` indica que um valor está sendo atribuído à variável. Para testar se uma variável é igual a outra, deve-se usar `==`.
@@ -59,6 +60,6 @@ Identifique e crie todas as variáveis necessárias para que o texto de `apresen
 apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apelido + ") e tenho " + idade + " anos. Nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + (trabalhando ? "empregado" : "desempregado") + "."
 ```
 
-_Obs.: você deve criar as demais variáveis `antes` de criar a variável `apresentacao`._
+_Dica: você deve criar as demais variáveis `antes` de criar a variável `apresentacao`._
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) também._ 

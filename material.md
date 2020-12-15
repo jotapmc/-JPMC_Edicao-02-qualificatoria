@@ -51,5 +51,5 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #06 - Condicionais](aula06/aula.md)
 - [Aula #07 - Vetores, matrizes e arrays](aula07/aula.md)
 - [Aula #08 - Estruturas de repetição](aula08/aula.md)
-- [Aula #09 - Funções e procedimentos](https://youtu.be/2g2bfD6q5NQ)
+- [Aula #09 - Funções, procedimentos e comentários](aula09/aula.md)
 - [Aula #10 - Juntando tudo](https://youtu.be/aWv871ExPqY)
