@@ -1,8 +1,8 @@
 # Material de estudo
 
-O treinamento do **CWI Reset**, que ocorrerá entre os dias **XX/XX/XXXX** e **XX/XX/XXXX**, é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso que é essencial a sua dedicação ao processo. :sunglasses:
+O treinamento do **CWI Reset**, que ocorrerá entre os dias **XX/XX/XXXX** e **XX/XX/XXXX**, é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso que é essencial a sua dedicação ao processo. :muscle:
 
-Durante o treinamento nós vamos te ensinar a programar, mas, antes de chegar lá, precisamos garantir que você aprenda o **básico**. E tudo o que você precisa aprender neste momento está no conteúdo desta página. :yum:
+Durante o treinamento nós vamos te ensinar a programar, mas, antes de chegar lá, precisamos garantir que você aprenda o **básico**. E tudo o que você precisa aprender neste momento está no conteúdo desta página. :sunglasses:
 
 ...
 
@@ -20,11 +20,11 @@ Para você entender melhor o que é programação e a sua importância no mercad
 
 ## Conceitos básicos _`#fundamental`_
 
-Mexe com computador mas não sabe como ele funciona? Já procurou um notebook com 8GB de RAM mas não tem a menor ideia do que que é isso? Bom, chegou a hora de saber :smile:
+Mexe com computador mas não sabe como ele funciona? Já procurou um notebook com 8GB de RAM mas não tem a menor ideia do que é isso? Bom, chegou a hora de entender isso aí :smile:
 
-É _#fundamental_ o entendimento dos conceitos destes vídeos.
+É _#fundamental_ compreender os conceitos destes vídeos.
 
-O último é uma playlist beeem básica, então, caso você já tenha um conhecimento um pouquinho maior, pode pulá-lo tranquilamente. :wink:
+_Obs.: o último link é de uma playlist beeem básica, então, caso você já tenha um conhecimento um pouquinho maior, pode pulá-lo tranquilamente._ :wink:
 
 - [Como funciona um computador](https://www.youtube.com/watch?v=MpKbTNonIwc)
 - [12 conceitos de sistemas operacionais que todo estudante de tecnologia precisa conhecer](https://youtu.be/T7lCM3l7vAQ)
@@ -34,13 +34,13 @@ O último é uma playlist beeem básica, então, caso você já tenha um conheci
 
 ## Algoritmos e lógica de programação _`#fundamental`_
 
-Algoritmos? :flushed: Condicionais? :fearful: Arrays? :scream: 
+Algoritmos? :flushed: Condicionais? :fearful: Arrays? :scream:
 
 Aqui você vai ver tudo isso e um pouco mais :satisfied:
 
-:warning: **Esta seção é a parte mais importante da etapa de qualificação, por isso, obviamente, ela é _#fundamental_.**
+:warning: _**Esta seção é a parte mais importante da etapa de qualificação, por isso, obviamente, ela é #fundamental.**_
 
-Os vídeos não são necessariamente dos mesmos canais, portanto, procure assistir a todos com atenção, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente às instruções dos vídeos que possuem conteúdo extra.
+Os vídeos não são necessariamente dos mesmos canais, portanto, procure assistir a todos com atenção, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente os conteúdos extras.
 
 - [Aula #00 - O que é um algoritmo?](aula00/aula.md)
 - [Aula #01 - Introdução à lógica de programação](aula01/aula.md)

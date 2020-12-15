@@ -50,4 +50,4 @@ imprimir(margemBruta(1000000, 500000))      // 50
 imprimir(margemBruta(528459.11, 632501.87)) // -19.68[...]
 ```
 
-_**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles._
+_**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles também._

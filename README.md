@@ -16,7 +16,7 @@ Criamos um canal exclusivo para que todos os participantes possam fazer pergunta
 
 > Não conhece o Slack? Tranquilo, dá uma olhadinha [neste](https://youtu.be/rz8W-1ikzRQ?t=69) e [neste vídeo](https://youtu.be/07f2YFwX_kA) que vai ficar barbada.
 
-**Acesse o Slack do Reset aqui**: slack.com/blablabla
+:point_right: Acesse o Slack do Reset aqui: slack.com/blablabla
 
 Foram criados dois grupos lá dentro: `#duvidas` para você colocar suas dúvidas  :sweat_smile: e `#geral` para você mandar um oi pra galera :raised_hands:
 
@@ -31,13 +31,13 @@ Só mais uma coisa: antes de fazer uma pergunta lá no Slack, dá uma olhadinha 
 
 ...
 
-## - Beleza! Mas e cadê os vídeos?? :thinking:
+## - Beleza! Mas e cadê o material?? :thinking:
 
 Calma aí, pequeno(a) Padawan!
 
 :point_right: Todo conteúdo está disponível [aqui](material.md).
 
-O conteúdo foi dividido entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso :stuck_out_tongue: 
+O material foi dividido entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso :stuck_out_tongue: 
 
 Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça os exercícios_.
 

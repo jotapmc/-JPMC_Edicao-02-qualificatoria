@@ -58,7 +58,7 @@ imprimir(maiorDeIdade(5))  // false
 
 imprimir("---")
 
-imprimir(valorComJuros(100))   // 110
+imprimir(valorComJuros(100))   // 110.0xxx
 imprimir(valorComJuros(984.5)) // 1082.95
 
 imprimir("---")
@@ -70,5 +70,5 @@ imprimir(mediaAritmetica([1, 2, 3, 4, 5])) // 3
 imprimir("---")
 
 imprimir(margemBruta(1000000, 500000))      // 50
-imprimir(margemBruta(528459.11, 632501.87)) // -19.68[...]
+imprimir(margemBruta(528459.11, 632501.87)) // -19.68xxx
 ```
