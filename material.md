@@ -38,7 +38,7 @@ Algoritmos? :flushed: Condicionais? :fearful: Arrays? :scream:
 
 Aqui você vai ver tudo isso e um pouco mais :satisfied:
 
-Esta seção é a parte mais importante da etapa de qualificação, por isso, obviamente, ela é _#fundamental_. 
+:warning: **Esta seção é a parte mais importante da etapa de qualificação, por isso, obviamente, ela é _#fundamental_.**
 
 Os vídeos não são necessariamente dos mesmos canais, portanto, procure assistir a todos com atenção, faça os exercícios propostos com o objetivo de entender e aprender os conceitos, e leia atentamente às instruções dos vídeos que possuem conteúdo extra.
 

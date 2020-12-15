@@ -35,9 +35,11 @@ Só mais uma coisa: antes de fazer uma pergunta lá no Slack, dá uma olhadinha 
 
 Calma aí, pequeno(a) Padawan!
 
-Todo conteúdo está disponível [aqui](material.md) e dividido entre **#fundamental**, que são coisas que você precisa entender e que podem cair na avaliação, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico ou se for apenas um curioso :stuck_out_tongue: 
+:point_right: Todo conteúdo está disponível [aqui](material.md).
 
-Recomendamos fortemente que você acompanhe os vídeos na sequência indicada e _faça os exercícios_.
+O conteúdo foi dividido entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso :stuck_out_tongue: 
+
+Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça os exercícios_.
 
 ...
 
