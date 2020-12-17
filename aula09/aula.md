@@ -1,6 +1,7 @@
 # Aula 09 - Funções, procedimentos e comentários
 
 Leia o artigo: https://www.linhadecomando.com/javascript/javascript-inserindo-comentarios
+
 Assista ao vídeo: https://youtu.be/2g2bfD6q5NQ
 
 > É **#fundamental** que você assista ao vídeo e leia o artigo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
@@ -53,3 +54,7 @@ imprimir(margemBruta(528459.11, 632501.87)) // -19.68[...]
 ```
 
 _**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles também._
+
+---
+
+:point_left: [Voltar para aula anterior](../aula08/aula.md) ..... [Avançar para próxima aula](../aula10/aula.md) :point_right:

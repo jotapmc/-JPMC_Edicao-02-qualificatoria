@@ -25,3 +25,6 @@ Depois, basta procurar por `Javascript` e dar um nome para o seu repositório.
 Quando seu repositório e ambiente de trabalho estiver concluído, basta você escrever o código, clicar em `Run` e _voilá_:
 
 ![execução](img/repl-4.png)
+
+---
+:point_left: [Voltar para aula](aula.md)

@@ -28,3 +28,7 @@ Assista ao vídeo: https://youtu.be/FDrR18rvvCc
    * Qual o valor do seu saldo? :thinking:
 
 _**Após** ter feito os exercícios, você pode dar uma conferida em como [nós criamos as nossas variáveis](resolucao.md)._
+
+---
+
+:point_left: [Voltar para aula anterior](../aula04/aula.md) ..... [Avançar para próxima aula](../aula06/aula.md) :point_right:

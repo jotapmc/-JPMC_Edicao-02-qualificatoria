@@ -1,6 +1,6 @@
 # Material de estudo
 
-O treinamento do **CWI Reset**, que ocorrerá entre os dias **XX/XX/XXXX** e **XX/XX/XXXX**, é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso que é essencial a sua dedicação ao processo. :muscle:
+O treinamento do **CWI Reset**, que ocorrerá entre os dias **06/02/2021** e **06/03/2021**, é composto por cinco aulas em cinco dias inteiros de muito conteúdo. É bem puxado! Por isso que é essencial a sua dedicação ao processo. :muscle:
 
 Durante o treinamento nós vamos te ensinar a programar, mas, antes de chegar lá, precisamos garantir que você aprenda o **básico**. E tudo o que você precisa aprender neste momento está no conteúdo desta página. :sunglasses:
 
@@ -58,3 +58,25 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 
 ...
 
+## Ao infinito e além _`#opcional`_
+
+Achou fácil o conteúdo até aqui? :flushed: Aprendeu bem todo material fundamental? :thinking: Quer tentar ir um pouco além? :smirk: É apenas muito curioso e tá com tempo livre? :joy:
+
+Se qualquer uma das respostas for verdadeira, vale a pena você dar uma olhada nas playlists que colocamos aqui. Conteúdo _`#opcional`_ e que não cairá na avaliação, pois veremos todo ele em detalhes durante o treinamento. 
+
+Porém, se quiser dar um passo à frente :rocket:, vale a pena dar uma conferida.
+
+* [Lógica de programação com Java](https://www.youtube.com/playlist?list=PLLIwspwf0qOjcuyW93HawPb_1qWBuIizX)
+* [Programação Orientada a Objetos em Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+
+...
+
+Esperamos que você consiga ver, estudar e praticar todo material, pois ele é muito importante e constitui o básico para que você consiga participar da próxima etapa.
+
+Todo material foi cuidadosamente separado para te ajudar. Por isso, contamos com tua dedicação e esperamos te ver na próxima também :punch: 
+
+Boa sorte :blush:
+
+---
+
+**Reset, restart, go!** :rocket:

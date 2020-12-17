@@ -27,3 +27,7 @@ Exiba o valor do IMC e a classificação obtida. Se houver algum grau de obesida
 Se o grau de obesidade for `3`, adicione também a seguinte mensagem: `É importante procurar um médico para avaliar sua saúde.`
 
 _**Após** ter feito o exercício, dá uma olhada na [nossa implementação](resolucao.md)._
+
+---
+
+:point_left: [Voltar para aula anterior](../aula05/aula.md) ..... [Avançar para próxima aula](../aula07/aula.md) :point_right:

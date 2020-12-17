@@ -9,3 +9,6 @@ Uma janela chamada `DevTools` será aberta. Nesta, certifique-se de que você es
 Aqui você já pode programar! :metal: Digite seu código, dê um `Enter` e _voilá_:
 
 ![devtools](img/chrome-2.png)
+
+---
+:point_left: [Voltar para aula](aula.md)

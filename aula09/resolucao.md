@@ -49,3 +49,6 @@ function margemBruta(receitaLiquidaVendas, custoProdutosVendidos) {
     return (lucroBruto / receitaLiquidaVendas) * 100
 }
 ```
+
+---
+:point_left: [Voltar para aula](aula.md)

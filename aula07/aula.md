@@ -9,3 +9,7 @@ Assista ao vídeo: https://youtu.be/Q8iceY8qCpo
 #### _Leitura complementar:_
 
 * https://www.devmedia.com.br/javascript-arrays/4079
+
+---
+
+:point_left: [Voltar para aula anterior](../aula06/aula.md) ..... [Avançar para próxima aula](../aula08/aula.md) :point_right:

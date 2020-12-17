@@ -39,4 +39,9 @@ verificarAposentadoria('Wellison')    // false (falta 1 ano de trabalho para reg
 verificarAposentadoria('Florisberto') // false (colaborador inexistente)
 ```
 
-_**Após** ter feito o exercício, dá uma conferida em [como nós criamos a função](resolucao.md)._
+_**Após** ter feito o exercício, dá uma conferida em [como nós criamos a função](resolucao.md).
+
+---
+
+:point_left: [Voltar para aula anterior](../aula09/aula.md)
+:point_left: [Voltar para o índice](../material.md#algoritmos-e-lógica-de-programação-fundamental)

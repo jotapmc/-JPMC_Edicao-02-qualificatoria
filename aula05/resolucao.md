@@ -32,3 +32,6 @@ Fique à vontade para colocar valores fixos _(como a idade de maioridade ou a ta
 
 6)
 ![resolucao](img/resolucao.PNG)
+
+---
+:point_left: [Voltar para aula](aula.md)

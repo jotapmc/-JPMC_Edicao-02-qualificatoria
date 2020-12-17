@@ -19,3 +19,6 @@ console.log(apresentacao)
 _Resultado:_
 
 ![resolucao](img/resolucao.png)
+
+---
+:point_left: [Voltar para aula](aula.md)

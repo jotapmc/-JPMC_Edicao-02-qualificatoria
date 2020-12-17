@@ -76,3 +76,6 @@ if (nomeComum) {
     console.log("Diferentão, hein? XD")
 }
 ```
+
+---
+:point_left: [Voltar para aula](aula.md)

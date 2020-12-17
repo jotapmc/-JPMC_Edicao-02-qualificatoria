@@ -38,3 +38,7 @@ nomesComuns = ["Miguel", "Laura", "Lucas", "Beatriz", "Guilherme", "Maria", "Gab
 ```
 
 _**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles._
+
+---
+
+:point_left: [Voltar para aula anterior](../aula07/aula.md) ..... [Avançar para próxima aula](../aula09/aula.md) :point_right:

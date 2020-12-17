@@ -11,4 +11,4 @@ A etapa **Qualificatória** é feita para você estudar os conteúdos que seleci
 Parabéns pela seleção, estamos ansiosos para te ver na próxima etapa :wink: 
 
 ---
-**Reset, restart, go!**
+**Reset, restart, go!** :rocket:
