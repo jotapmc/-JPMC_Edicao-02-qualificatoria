@@ -24,8 +24,10 @@ Assista ao vídeo: https://youtu.be/2g2bfD6q5NQ
    * Na função da média aritmética, evite colocar todos os itens como argumentos do método, pois isso limitaria sua utilização a um número fixo de elementos. Tente implementar uma lógica para receber um array e calcular a média em cima dele, tornando a função mais reaproveitável em diferentes situações.
 3. Com as funções criadas, execute todo código abaixo e verifique se os resultados são os esperados _(o resultado esperado de cada função está no comentário ao lado da chamada)_:
 ```javascript
-imprimir(mesmoNome("CWI", "CWI"))   // true
-imprimir(mesmoNome("CWI", "Reset")) // false
+cwi = "CWI"
+reset = "Reset"
+imprimir(mesmoNome(cwi, cwi))   // true
+imprimir(mesmoNome(cwi, reset)) // false
 
 imprimir("---")
 
