@@ -30,9 +30,11 @@ Mas, caso permaneça com alguma dúvida ou sinta que precisa de ajuda, poderá u
 
 :point_right: Lembre-se de procurar por issues semelhantes as suas antes de postar uma nova. Pode ser que alguém já tenha passado pela mesma situação que você;
 
+:point_right: Se você viu alguma dúvida da qual sabe a resposta, não hesite em respondê-la e compartilhar seu conhecimento! Saiba que colaboração é uma das qualidades mais bem apreciadas por aqui :wink:;
+
 :point_right: Se você postou algo e acabou descobrindo a solução por conta própria, responda você mesmo explicando como resolveu o problema. Lembre-se: outra pessoa pode passar pelo mesmo problema;
 
-:point_right: Use títulos fáceis de entender e de filtrar. Imagine, por exemplo, que você não conseguiu criar o algoritmo de verificação de maioridade da aula 05:
+:point_right: Use títulos fáceis de entender e de filtrar. Imagine, por exemplo, que você não conseguiu criar o algoritmo de verificação de maioridade da aula 05. Olha aí uns exemplos de títulos ruins :x: e bons :heavy_check_mark: pra gente conseguir te ajudar melhor:
 
 ... :x: Tá dando erro
 
