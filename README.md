@@ -8,7 +8,7 @@ Seu entendimento sobre este conteúdo é fundamental para que você esteja apto 
 
 ...
 
-## - Teste? Como assim?
+## - Teste? Como assim? :confused:
 
 Nosso programa visa te capacitar para trabalhar numa área nova com infinitas possibilidades. :rocket:
 
@@ -63,6 +63,32 @@ Calma aí, pequeno(a) Padawan!
 O material foi dividido entre **#fundamental**, que são coisas que você precisa entender e que _podem cair na avaliação_, e **#opcional**, que são coisas que você pode olhar se já conhecer o conteúdo básico, se já estiver adiantado ou mesmo se for um curioso :stuck_out_tongue: 
 
 Recomendamos fortemente que você acompanhe o material na sequência indicada e _faça os exercícios_.
+
+...
+
+## - Agora sim! Algo mais antes de eu começar? :grin:
+
+Eu sei que você já está louco(a) para sair programando, mas dá uma olhada nisso aqui:
+
+Além de todo material e da disponibilidade de ajuda pelo Github, também planejamos algumas lives com o intuito de esclarecer melhor como o programa funcionará e também para te ajudar a tirar dúvidas! Massa, né?? :smile:
+
+Este é o cronograma inicial que planejamos:
+
+| Data | Hora | Objetivo |
+| - | - | - |
+| **04/01/2021** | **18h30 - 20h** | Palestra ao vivo sobre carreira de TI e detalhes sobre o funcionamento do programa e das próximas etapas. |
+| **05/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
+| **08/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
+| **12/01/2021** | _a definir_ | Live para tirar dúvidas sobre o conteúdo e exercícios. |
+| **14/01/2021** | _a definir_ | Encontro para dar detalhes sobre o funcionamento da avaliação, que ocorrerá no dia **15/01/2021**. |
+
+> **Atenção**: este cronograma pode sofrer alterações! Portanto, fique ligado no seu e-mail pois informaremos por lá qualquer novidade.
+
+...
+
+:white_check_mark: Agora, sim, você já tem toda informação de que precisa para começar a programar no **CWI | Reset**. Bons estudos e boa sorte. :blush:
+
+:point_right: Todo material de estudo está disponível **[aqui](material.md)**. :point_left:
 
 ---
 
