@@ -20,7 +20,3 @@ _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md
 
 :point_left: [Voltar para aula anterior](../aula00/aula.md) ..... [Avançar para próxima aula](../aula02/aula.md) :point_right:
 
-___
-
-**EXERCÍCIO EM PROCESSO:**
-Se abro os olhos, então procuro o celular com a mão sobre a cama
