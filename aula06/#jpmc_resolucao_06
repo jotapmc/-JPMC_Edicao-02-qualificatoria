@@ -1,0 +1,26 @@
+peso=96
+altura=1.70
+imc=peso/altura**2
+
+if (imc<18.50){
+	  console.log('IMC calculado =', imc);
+	  console.log('Classificação: Magreza / Grau: 0');
+    
+} else if(imc>=18.50 && imc<=24.99){ 
+	  console.log('IMC calculado =',imc);
+	  console.log('Classificação: Normal / Grau: 0');
+    
+} else if(imc>=25.00 && imc<=29.99){
+    console.log('IMC calculado =',imc);
+	  console.log('Classificação: Sobrepeso / Grau: 1'); 
+    
+} else if(imc>=30.00 && imc<=39.99){
+    console.log('IMC calculado =',imc);
+	  console.log('Classificação: Obesidade / Grau: 2');
+	  console.log('Cuidado! Você está acima do peso recomendado pela OMS.');
+    
+} else if(imc>=40.00){
+    console.log('IMC calculado =',imc)
+	  console.log('Classificação: Obesidade grave / Grau: 3')
+	  console.log('Importante procurar um médico para avaliar sua saúde.');
+}
