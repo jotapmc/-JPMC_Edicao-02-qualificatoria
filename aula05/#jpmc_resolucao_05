@@ -1,0 +1,56 @@
+
+
+//Exercício 1
+
+nomeDoFulano= "João"
+nomeDoBeltrano= "Paulo"
+mesmoNome=(nomeDoFulano === nomeDoBeltrano && "Igual" ||'Diferente');
+console.log(mesmoNome)
+
+//Exercício 2
+
+idade=32
+maiorDeIdade = idade>=18 
+console.log(maiorDeIdade && "Adulto" ||'Menor de idade')
+
+//Exercício 3
+
+valorBoleto=100
+boletoVencido=true
+juros=0.1
+valordoJuro=valorBoleto*juros
+
+console.log (boletoVencido&&valordoJuro+valorBoleto)
+
+//Exercício 4
+
+item01=10
+item02=20
+item03=40
+item04=40
+item05=100
+media=(item01+item02+item03+item04+item05)/5
+console.log(media)
+
+//Exercício 5
+
+receitaLiquidaVendas=10000
+custoProdutosVendidos=3000
+lucroBruto=receitaLiquidaVendas-custoProdutosVendidos
+margemBruta=lucroBruto/receitaLiquidaVendas
+console.log (margemBruta*100+'%')
+
+//Exercício 6
+
+saldoConta=1000.00
+calca=99.90
+salario=2500.00
+despesa01=0.10
+saldoAtual=saldoConta-calca+salario-despesa01
+arCondicionado=saldoAtual*.25
+saldoAtual01=saldoAtual-arCondicionado
+pagamentoAntecipadoDivida=saldoAtual01/2
+saldoFinal=saldoAtual01-pagamentoAntecipadoDivida
+console.log(saldoFinal)
+
+
